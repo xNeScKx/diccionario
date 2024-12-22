@@ -6,5 +6,5 @@ El componente de Últimas Noticias es una sección diseñada para mostrar las pu
 
 **Este componente es responsabilidad de Sala de Prensa.**
 
-
+### Vista del Componente
 ![](img/02.jpg)

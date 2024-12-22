@@ -10,4 +10,5 @@ Este componente es importante que incluya:
 - Lista de los valores que rigen las actividades de la institución (ejemplo: transparencia, inclusión, eficiencia).
 - Breve descripción de cada valor (ejemplo: *Trabajamos para mejorar la calidad de vida de nuestros ciudadanos*).
 
+### Vista del Componente
 ![](img/06.jpg)

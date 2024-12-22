@@ -25,4 +25,5 @@ El componente de footer es la sección inferior de la página web. Es importante
    - En caso de que la dependencia recabe datos personales a través del sitio web, es importante desarrollar un aviso de privacidad que cumpla con las normativas vigentes en materia de protección de datos.
    - De ser posible, proporcione el texto oficial del aviso o colabore con el área jurídica correspondiente para redactarlo.
 
+### Vista del Componente
 ![](img/05.jpg)

@@ -8,7 +8,8 @@ Este componente debe incluir:
 
 - **Nombre oficial de la dependencia:** Tal como debe aparecer públicamente en el sitio web.
 - **Breve descripción de la dependencia:** Una frase o párrafo de máximo 2-3 líneas que explique su función, objetivo o servicios principales.
-- **Boton "Conoce mas"** Este boton tiene como uso, redirijir a la pagina de "Acerca De" de la secretaría.
-- **Boton "Convocatorias"** Este boton tiene como uso, redirijir a la pagina de "Convocatorias" de la secretaría.
+- **Boton "Conoce mas":** "Este botón permite redirigir dinámicamente a la página deseada, como "Acerca de, Programas Sociales, Convocatorias, Noticias, entre otras páginas de la secretaría."
+- **Boton:** Este Segundo botón también permite redirigir dinámicamente a la página deseada, como "Acerca de, Programas Sociales, Convocatorias, Noticias, entre otras páginas de la secretaría."
 
+### Vista del Componente
 ![](img/01.jpg)

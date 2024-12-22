@@ -1,8 +1,8 @@
-# Programas Sociales (Permanentes)
+# Programas Sociales (Temporales)
 
 ### Descripción 
 
-Este componente está destinado a destacar programas sociales de la dependencia que se encuentran disponibles de manera permanente, ofreciendo atención continua y constante a la población. 
+Este componente está destinado a destacar programas sociales de la dependencia que se encuentran disponibles de manera temporal, ofreciendo atención continua y constante a la población. 
 
 
 ### Este componente debe estar compuesto por:
@@ -71,4 +71,4 @@ Una lista concisa con los beneficios principales para el público objetivo.
 - **Boton "Leer Más":** Este botón permite redirigir a la página del contenido del programa. 
 
 ### Vista del Componente
-![](img/10.jpg)
+![](img/11.jpg)

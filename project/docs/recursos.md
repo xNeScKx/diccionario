@@ -23,4 +23,5 @@ Este componente para recursos para el ciudadano es una sección en la página we
 - **Boton "Ver todos"** Este boton tiene como uso, redirigir a la pagina de "Recursos para el ciudadana" donde se encontrarn los demas recursos.
 - **Boton "Leer más"** Este boton tiene como uso, redirigir al link del recurso (encaso de ser necesario) o redirigir a una landingpage acerca del recurso.
 
+### Vista del Componente
 ![](img/04.jpg)

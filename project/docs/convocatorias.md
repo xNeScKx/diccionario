@@ -20,4 +20,5 @@ El componente de convocatorias es una sección diseñada para mostrar informaci�
    - Si hay información adicional o documentos relacionados con la convocatoria, adjunte el archivo en formato PDF para que pueda ser descargado desde el sitio web.
    - En caso de contar con una imagen ilustrativa para este archivo, por favor adjúntela.
 
+### Vista del Componente
 ![](img/03.jpg)

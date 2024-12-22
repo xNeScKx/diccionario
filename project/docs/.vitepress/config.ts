@@ -37,7 +37,7 @@ export default defineConfig({
               { text: 'Componente Últimas Noticias', link: '/noticias' },
               { text: 'Componente de Convocatorias', link: '/convocatorias' },
               { text: 'Componentes de Recursos para el Ciudadano', link: '/recursos' },
-              { text: 'Componentes Footer', link: '/footer' },
+              { text: 'Componente Footer', link: '/footer' },
             ],
           },
           {
@@ -59,15 +59,31 @@ export default defineConfig({
               { text: 'Componente Programas Sociales (Permanentes)', link: '/programassociales' },
               { text: 'Componente Programas Sociales (Temporales)', link: '/programassocialestemporales' },
               { text: 'Componente Preguntas Frecuentes', link: '/preguntasfrecuentes' },
+              { text: 'Componente Atención Ciudadana', link: '/atencionciudadana' },
+              { text: 'Vista de la página Programas', link: '/paginaprogramas' },
             ],
           },
           {
-            
-            text: 'Glosario de Componentes',
+            text: 'Pagina Convocatorias',
             collapsed: true,   // Opcional: inicia colapsado
             items: [
-              { text: 'Componentes', link: '/glosariocomponentes' },
-
+              { text: 'Componente Header (Convocatorias)', link: '/headerconvocatoria' },
+              { text: 'Componente Eventos', link: '/eventos' },
+              { text: 'Componente Contactanos', link: '/contactanos' },
+              { text: 'Componente Footer', link: '/footer' },
+              { text: 'Vista de la página Convocatorias', link: '/paginaconvocatorias' },
+            ],
+          },
+          {
+            text: 'Pagina Trámites',
+            collapsed: true,   // Opcional: inicia colapsado
+            items: [
+              { text: 'Componente Header (Trámites)', link: '/header' },
+              { text: 'Componente Trámites', link: '/tramites' },
+              { text: 'Componente Preguntas Frecuentes', link: '/preguntasfrecuentes' },
+              { text: 'Componente Atención Ciudadana', link: '/atencionciudadana' },
+              { text: 'Componente Footer', link: '/footer' },
+              { text: 'Vista de la página Trámites', link: '/paginartramites' },
             ],
           },
         ],

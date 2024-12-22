@@ -20,4 +20,5 @@ El componente de “Acerca de” es la sección superior de la página. Es el in
 - **Boton "Conoce mas"** Este boton tiene como uso, redirijir a la pagina que la secretaria desee importante.
 - **Boton "Decalogo"** Este boton tiene como uso, redirijir a la pagina de "Decalogo" del Gobierno del Estado.
 
+### Vista del Componente
 ![](img/06.jpg)

@@ -10,5 +10,5 @@ Este componente tiene como objetivo mostrar y redirigir a los fideicomisos/organ
 - **Breve descripción:** De 2 a 3 líneas sobre sus funciones o áreas de competencia.
 - **Redes sociales:** De los fideicomisos/organismos.
 
-
+### Vista del Componente
 ![](img/09.jpg)
