@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress';
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
   lang: 'en-US',
-  title: 'Diccionario de Coomponentes Glosario',
+  title: 'Diccionario de Componentes Glosario',
   description: 'Diccionario de Coomponentes Glosario',
   base: '/glosario/',
 
