@@ -5,6 +5,7 @@ export default defineConfig({
   lang: 'en-US',
   title: 'Diccionario de Coomponentes Glosario',
   description: 'Diccionario de Coomponentes Glosario',
+  base: '/glosario/',
 
 
 
