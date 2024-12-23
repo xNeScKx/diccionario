@@ -38,6 +38,7 @@ export default defineConfig({
               { text: 'Componente de Convocatorias', link: '/convocatorias' },
               { text: 'Componentes de Recursos para el Ciudadano', link: '/recursos' },
               { text: 'Componente Footer', link: '/footer' },
+              { text: 'Vista de la página Inicio', link: '/paginainicio' },
             ],
           },
           {
@@ -48,7 +49,9 @@ export default defineConfig({
               { text: 'Componente Valores', link: '/valores' },
               { text: 'Componente Directorio', link: '/directorio' },
               { text: 'Componente Organigrama', link: '/organigrama' },
+              { text: 'Componente Footer', link: '/footer' },
               { text: 'Componente Fideicomisos/Organismos', link: '/fideicomisos' },
+              { text: 'Vista de la página Acerca De', link: '/paginaacercade' },
             ],
           },
           {
@@ -60,6 +63,7 @@ export default defineConfig({
               { text: 'Componente Programas Sociales (Temporales)', link: '/programassocialestemporales' },
               { text: 'Componente Preguntas Frecuentes', link: '/preguntasfrecuentes' },
               { text: 'Componente Atención Ciudadana', link: '/atencionciudadana' },
+              { text: 'Componente Footer', link: '/footer' },
               { text: 'Vista de la página Programas', link: '/paginaprogramas' },
             ],
           },
@@ -83,7 +87,43 @@ export default defineConfig({
               { text: 'Componente Preguntas Frecuentes', link: '/preguntasfrecuentes' },
               { text: 'Componente Atención Ciudadana', link: '/atencionciudadana' },
               { text: 'Componente Footer', link: '/footer' },
-              { text: 'Vista de la página Trámites', link: '/paginartramites' },
+              { text: 'Vista de la página Trámites', link: '/paginatramites' },
+            ],
+          },
+          {
+            text: 'Página Fideicomisos/Organismos',
+            collapsed: true,   // Opcional: inicia colapsado
+            items: [
+              { text: 'Componente Header (Fideicomisos/Organismos)', link: '/header' },
+              { text: 'Componente Fideicomisos/Organismos', link: '/fideicomisos' },
+              { text: 'Componente Preguntas Frecuentes', link: '/preguntasfrecuentes' },
+              { text: 'Componente Directorio', link: '/directorio' },
+              { text: 'Componente Atención Ciudadana', link: '/atencionciudadana' },
+              { text: 'Componente Footer', link: '/footer' },
+              { text: 'Vista de la página Fideicomisos/Organismos', link: '/paginafideicomisos' },
+            ],
+          },
+          {
+            text: 'Página Transparencia',
+            collapsed: true,   // Opcional: inicia colapsado
+            items: [
+              { text: 'Componente Header', link: '/header' },
+              { text: 'Componente Transparencia', link: '/transparencia' },
+              { text: 'Componente Marco Jurídico', link: '/marcojuridico' },
+              { text: 'Componente Contactanos', link: '/contactanos' },
+              { text: 'Componente Footer', link: '/footer' },
+              { text: 'Vista de la página Marco Jurídico', link: '/paginamarcojuridico' },
+            ],
+          },
+          {
+            text: 'Página Contactanos',
+            collapsed: true,   // Opcional: inicia colapsado
+            items: [
+              { text: 'Componente Header', link: '/header' },
+              { text: 'Componente Contactanos', link: '/contactanos' },
+              { text: 'Componente Preguntas Frecuentes', link: '/preguntasfrecuentes' },
+              { text: 'Componente Footer', link: '/footer' },
+              { text: 'Vista de la página Contactanos', link: '/paginacontactanos' },
             ],
           },
         ],

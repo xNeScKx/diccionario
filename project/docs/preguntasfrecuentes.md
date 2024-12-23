@@ -2,7 +2,7 @@
 
 ### Descripción 
 
-El componente de preguntas y respuestas está diseñado dinámicamente para responder de manera eficiente las dudas más comunes de los usuarios, proporcionando acceso rápido a información específica sobre los “Programas Sociales, programas permanentes, trámites y servicios, dependencias, entre otros.”
+El componente de preguntas y respuestas está diseñado dinámicamente para responder de manera eficiente las dudas más comunes de los usuarios, proporcionando acceso rápido a información específica sobre los “Programas Sociales, programas permanentes, trámites y servicios, dependencias, organismos, entre otros.”
 
 
 ### Este componente debe estar compuesto por:
@@ -11,8 +11,8 @@ El componente de preguntas y respuestas está diseñado dinámicamente para resp
 Un mínimo de cinco preguntas con respuestas claras y útiles.
 
 >**Ejemplo:**
->1. **¿Quiénes pueden participar en este programa?**
-   Personas que cumplan con los requisitos de ingreso y residencia.
+>1. **¿Qué debo hacer si necesito acudir a otra dependencia?**
+   Puedes consultar los datos de contacto, ubicaciones y horarios de atención de las dependencias asociadas directamente en esta sección.
 
 >2. **¿Qué documentos necesito para registrarme?**
    CURP, identificación oficial y comprobante de domicilio.
