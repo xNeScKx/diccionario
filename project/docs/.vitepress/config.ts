@@ -6,10 +6,14 @@ export default defineConfig({
   title: 'Diccionario de Componentes Glosario',
   description: 'Diccionario de Coomponentes Glosario',
   base: '/glosario/',
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/img/logo.png' }]
+  ],
 
 
 
   themeConfig: {
+    logo: 'img/logo.png',
     //nav: [
     //{ text: 'Example', link: '/example' },
     //{ text: 'Seccion 1', link: '/seccion1' },

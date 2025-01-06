@@ -1,0 +1,27 @@
+/* .vitepress/theme/custom.css */
+:root {
+    --vp-c-brand-1: #71785B; /* Color principal 1 */
+    --vp-c-brand-2: #C49A6D; /* Color principal 2 */
+    --vp-c-brand-3: #71785B; /* Color principal 3 */
+    --vp-c-brand-soft: #f0f4ff; /* Color suave de la marca */
+    --vp-c-brand-light: #d0d4ff; /* Color claro de la marca */
+    --vp-c-brand-dark: #444bff; /* Color oscuro de la marca */
+  }
+  .vp-sidebar {
+    max-width: 250px; /* Cambia el ancho según lo necesites */
+    word-wrap: break-word; /* Permite que las palabras largas se ajusten */
+  }
+  
+  /* Evitar que el título se desborde */
+  .vp-sidebar .title {
+    overflow: hidden; /* Oculta el texto que sobresale */
+    text-overflow: ellipsis; /* Agrega puntos suspensivos al texto que sobresale */
+    white-space: nowrap; /* Evita que el texto se envuelva */
+  }
+  
+  /* Alternativa: Permitir múltiples líneas en el título */
+  .vp-sidebar .title {
+    white-space: normal; /* Permite que el texto se envuelva */
+    line-height: 1.4; /* Ajusta la altura de línea */
+    word-wrap: break-word; /* Rompe palabras largas */
+  }
